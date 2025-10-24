@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#f2f2f2">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mi Lista de Tareas"
+        android:textSize="24sp"
+        android:textColor="#4CAF50"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp"/>
+
+    <ListView
+        android:id="@+id/taskList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="#cccccc"
+        android:dividerHeight="1dp"/>
+
+    <Button
+        android:id="@+id/addTaskButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Añadir Tarea"
+        android:background="#4CAF50"
+        android:textColor="#ffffff"
+        android:padding="12dp"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
