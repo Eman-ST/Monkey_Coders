@@ -31,5 +31,7 @@ ramas que anteriormente hemos distribuido para su realización.
 implementar dentro de la main este correcta, y una vez que todos le dimos el visto bueno, 
 esta rama se añadira a la rama "Main.
 7.- Cuando terminamos todo ese proceso, tuvimos que "arreglar" un conflicto (simulado), en 
-el cuál simplemente le dimos click en "Resolver conflicto", y cuando eso sucedió, simplemente tuvimos que guardar los cambios hechos y finalizamos la fusi´´on.
-8.- Terminando con esta rama pues simplemente seguimos con las demas ramas hasta que todas ya estuvieran fusionadas a la Main, básicamente se repite el proceso una y otra vez.
+el cuál simplemente le dimos click en "Resolver conflicto", y cuando eso sucedió, simplemente tuvimos que guardar los 
+cambios hechos y finalizamos la fusión.
+8.- Terminando con esta rama pues simplemente seguimos con las demas ramas hasta que todas ya estuvieran fusionadas a la Main, 
+básicamente se repite el proceso una y otra vez.
